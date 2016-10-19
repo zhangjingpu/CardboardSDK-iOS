@@ -1,9 +1,9 @@
 CardboardSDK-iOS
 ===============
 
-*June 2015 update*
+*March 2016 update*
 
-Google has added iOS support to their [Unity SDK](https://www.google.com/get/cardboard/developers/). Even though their official Unity plugin bundles a pre-compiled iOS Cardboard binary, there doesn't seem to be an easy way to use it in a standalone fashion.
+Google has released an official [iOS CardboardSDK](https://developers.google.com/cardboard/ios/get-started#downloading_and_building_the_app). However, for now it's a closed source precompiled library.
 
 ---
 
